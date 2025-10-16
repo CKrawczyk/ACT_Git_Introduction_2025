@@ -5,3 +5,5 @@ This repository contains the notes for basic Git usages and will act as an worki
 All notes are in the [introduction notes](./notes/introduction.md) markdown file.
 
 Example files for code editing are in the [code](./code) folder.
+
+https://github.com/CKrawczyk/ACT_Git_Introduction_2025
